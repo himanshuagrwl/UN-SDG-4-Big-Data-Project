@@ -31,11 +31,6 @@ Steps:
    ` Command: spark-submit county_similarity.py 'hdfs file path'`
 5. Visualization.ipynb takes input preprocessed_data.csv. It contains the visualization code for getting useful insights from the output data.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 
 ### Settings for my GCP CLuster:
 Tutorial I used [Link](https://www.youtube.com/watch?v=6DD-vBdJJxk). Configuration is below:
