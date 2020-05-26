@@ -1,9 +1,4 @@
 '''
-Team SPHS members:
-1) Surabhi Sarnot (112584690)
-2) Priyanka Datar (112681258)
-3) Himanshu Agrawal (112680639)
-4) Sri Sneha Geetha Retineni (112671507)
 
 General description:
  This code is used to find the similarity between two counties based on various factors of each county.

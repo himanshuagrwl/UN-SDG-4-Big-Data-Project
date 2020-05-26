@@ -1,10 +1,4 @@
 '''
-Team SPHS members:
-1) Surabhi Sarnot (112584690)
-2) Priyanka Datar (112681258)
-3) Himanshu Agrawal (112680639)
-4) Sri Sneha Geetha Retineni (112671507)
-
 
 General description:
  This is the spark version of pre-process. We have also attached a .ipynb python version also named: data_preparation.ipynb
